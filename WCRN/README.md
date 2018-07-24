@@ -1,24 +1,9 @@
-# DL_for_RSIs
+## Wide Contextual Residual Network (WCRN)
 
-##### Deep Leaning (DL) for remote sensing image (RSI) classification.
+Author  : Shengjie Liu, Haowen Luo (Equal Contribution)
+License : http://www.apache.org/licenses/LICENSE-2.0
 
-##### If it helps, please STAR the project and CITE our papers.
-
-### Sample-set Maker(SSM) V5.0
-
-- SSM.py
-
-This is a class definition scipts for Sample-set Maker. SSM is a sample maker for RSI (Remote Sencing Image) classification, specifically for deep learning classification algorithm.
-With SSM, you can easily load a RSI and get samples for training. Every Sample made by SSM is a N*N sub-image, which can be a sample of its center pixel for CNN/ResNet classifier.
-Also, AL (Active Learning) is supported in SSM.
-
-The script is compliant with PEP-8 specifications.
-
----
-
-### Networks
-
-#### 1. Wide Contextual Residual Network (WCRN)
+If it helps, please STAR the project and CITE our papers.
 
 This is a wide contextual residual network (WCRN) with active learning (AL) for remote sensing image (RSI) classification.
 
@@ -33,12 +18,11 @@ Environment:
 > SSM.py
 
 Script:
+> Pavia_University
 > WCRN.py:         the definition of the network.
 > SSM.py:          a sample manager.
 > PU_train.py:     an example script for Pavia University, used for training.
 > PU_predict.py:   an example script for Pavia University, used for predicting.
-
-The scripts are compliant with PEP-8 specifications.
 
 Reference:
 
