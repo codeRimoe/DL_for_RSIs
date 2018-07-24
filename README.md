@@ -27,15 +27,15 @@ Though ResNets have achieved great success in various applications, its performa
 Specifically, we first design a WCRN for RSI classification, and then integrate it with AL to achieve good machine generalization with limited number of training sampling. Experimental results on Pavia University and Flevoland datasets demonstrate that the proposed WCRN with AL can significantly reduce the needs of samples.
 
 Environment:
-> We run the scripts in Windows OS.
-> Spyder with Python 3.6
-> Keras 2.0.8 using Tensorflow 1.2.1 backend
-> SSM.py
+> We run the scripts in Windows OS. </br>
+> Spyder with Python 3.6 </br>
+> Keras 2.0.8 using Tensorflow 1.2.1 backend </br>
+> SSM.py </br>
 
 Script:
-> WCRN.py:         the definition of the network.
-> SSM.py:          a sample manager.
-> PU_train.py:     an example script for Pavia University, used for training.
+> WCRN.py:         the definition of the network. </br>
+> SSM.py:          a sample manager. </br>
+> PU_train.py:     an example script for Pavia University, used for training. </br>
 > PU_predict.py:   an example script for Pavia University, used for predicting.
 
 The scripts are compliant with PEP-8 specifications.
