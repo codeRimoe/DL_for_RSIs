@@ -24,6 +24,8 @@ Script:
 > PU_train.py:     an example script for Pavia University, used for training.
 > PU_predict.py:   an example script for Pavia University, used for predicting.
 
+The Hyperspetral RSI of Pavia University is available at: [Hyperspectral Remote Sensing Scenes - Grupo de Inteligencia Computacional (GIC)](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
+
 Reference:
 
 [Shengjie Liu, Haowen Luo, Ying Tu, Zhi He, and Jun Li. Wide Contextual Residual Network with Active Learning for Remote Sensing Image Classification. In International Geoscience and Remote Sensing Symposium, IGARSS 2018. (Accepted)](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=2482)
