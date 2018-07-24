@@ -1,6 +1,7 @@
 ## Wide Contextual Residual Network (WCRN)
 
 Author  : Shengjie Liu, Haowen Luo (Equal Contribution)
+
 License : http://www.apache.org/licenses/LICENSE-2.0
 
 If it helps, please STAR the project and CITE our papers.
