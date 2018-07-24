@@ -27,7 +27,7 @@ Script:
 
 The Hyperspetral RSI of Pavia University is available at: [Hyperspectral Remote Sensing Scenes - Grupo de Inteligencia Computacional (GIC)](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)
 
-![poster](https://github.com/codeRimoe/DL_for_RSIs/blob/master/WCRN/wcrn_igarss_poster.jpg)
+![poster](https://raw.githubusercontent.com/codeRimoe/DL_for_RSIs/master/WCRN/wcrn_igarss_poster.jpg)
 
 Reference:
 
