@@ -1,6 +1,6 @@
-## Wide Contextual Residual Network (WCRN)
+## Shorten Spatial-spectral RNN with Parallel-GRU (St-SS-pGRU)
 
-Author  : Shengjie Liu, Haowen Luo (Equal Contribution)
+Author  : Haowen Luo
 
 License : http://www.apache.org/licenses/LICENSE-2.0
 
