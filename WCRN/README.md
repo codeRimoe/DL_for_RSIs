@@ -31,4 +31,4 @@ The Hyperspetral RSI of Pavia University is available at: [Hyperspectral Remote 
 
 Reference:
 
-[Shengjie Liu, Haowen Luo, Ying Tu, Zhi He, and Jun Li. Wide Contextual Residual Network with Active Learning for Remote Sensing Image Classification. In International Geoscience and Remote Sensing Symposium, IGARSS 2018. (Accepted)](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=2482)
+[S. Liu, H. Luo, Y. Tu, Z. He and J. Li, "Wide Contextual Residual Network with Active Learning for Remote Sensing Image Classification," IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, Valencia, 2018, pp. 7145-7148. doi: 10.1109/IGARSS.2018.8517855](https://ieeexplore.ieee.org/document/8517855)

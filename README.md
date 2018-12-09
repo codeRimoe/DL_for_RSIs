@@ -42,10 +42,10 @@ The scripts are compliant with PEP-8 specifications.
 
 Reference:
 
-[Shengjie Liu, Haowen Luo, Ying Tu, Zhi He, and Jun Li. Wide Contextual Residual Network with Active Learning for Remote Sensing Image Classification. In International Geoscience and Remote Sensing Symposium, IGARSS 2018. (Accepted)](https://www.igarss2018.org/Papers/viewpapers.asp?papernum=2482)
+[S. Liu, H. Luo, Y. Tu, Z. He and J. Li, "Wide Contextual Residual Network with Active Learning for Remote Sensing Image Classification," IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium, Valencia, 2018, pp. 7145-7148. doi: 10.1109/IGARSS.2018.8517855](https://ieeexplore.ieee.org/document/8517855)
 
 
-#### 1. Shorten Spatial-spectral RNN with Parallel-GRU (St-SS-pGRU)
+#### 2. Shorten Spatial-spectral RNN with Parallel-GRU (St-SS-pGRU)
 
 Convolutional neural networks (CNNs) attained a good performance in hyperspectral sensing image (HSI) classification, but CNNs consider spectra as orderless vectors. Therefore, considering the spectra as sequences, recurrent neural networks (RNNs) have been applied in HSI classification, for RNNs is skilled at dealing with sequential data. However, for a long-sequence task, RNNs is difficult for training and not as effective as we expected. Besides, spatial contextual features are not considered in RNNs. In this study, we propose a Shorten Spatial-spectral RNN with Parallel-GRU (St-SS-pGRU) for HSI classification. A shorten RNN is more efficient and easier for training than band-by-band RNN. By combining converlusion layer, the St-SSpGRU model considers not only spectral but also spatial feature, which results in a better performance. An architecture named parallel-GRU is also proposed and applied in St-SS-pGRU. With this architecture, the model gets a better performance and is more robust.
 
