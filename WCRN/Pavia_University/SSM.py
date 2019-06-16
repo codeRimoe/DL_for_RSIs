@@ -420,6 +420,9 @@ class SSM:
             self.img['im'][x][y]
         except IndexError:
             return []
+        # considering the padded pixel, xy should add d
+        x += d
+        y += d
         sam = self.img['pad'][(x - d): (x + d + 1), (y - d): (y + d + 1)]
         return np.array(sam)
 
