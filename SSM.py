@@ -18,7 +18,7 @@ Also, AL (Active Learning) is supported in SSM.
 
 # Usage:
 #  1.import model:
-#           > from sample import *
+#           > from SSM import *
 #  2.initial SSM:
 #      SSM(IMGSize, SAMN, CLAN[, AUG=1, RSEED=-1]):
 #        ` IMGSize: the ROW, COL, BAND of image: [ROW, COL, BAND]
@@ -420,8 +420,6 @@ class SSM:
             self.img['im'][x][y]
         except IndexError:
             return []
-        x += d
-        y += d
         sam = self.img['pad'][(x - d): (x + d + 1), (y - d): (y + d + 1)]
         return np.array(sam)
 
